@@ -994,9 +994,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _prefab: {fileID: 7516155256917214533, guid: 79db3027bc6b4c94d98b041d07e05970, type: 3}
   _parent: {fileID: 0}
-  _initialCapacity: 0
-  _maxCapacity: 0
-  _preloadedCount: 0
+  _initialCapacity: 128
+  _maxCapacity: 1024
+  _preloadedCount: 64
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
