@@ -1,0 +1,16 @@
+{
+    "name": "DevourDev.Pools.Tests",
+    "rootNamespace": "DevourDev.Pools.Tests",
+    "references": [
+        "DevourDev.Pools"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
